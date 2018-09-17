@@ -12,8 +12,7 @@ public class Ejecutable1 {
 		p.setPeso(95);
 		System.out.println(p);
 		System.out.println("IMC:"+p.calcularImc());
-		
-
+// Cambiado
 	}
 
 }
